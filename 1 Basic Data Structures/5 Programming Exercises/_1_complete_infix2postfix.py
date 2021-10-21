@@ -87,5 +87,5 @@ def main():
     print('Associated Postfix: ', postfix)
     
 
-main()
+# main()
     
